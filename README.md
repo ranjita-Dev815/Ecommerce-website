@@ -135,6 +135,8 @@ onlineshop/
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d7e46605-2ab9-41a0-9a80-0fc4aa45e4e8" />
 
 ### order page
+![WhatsApp Image 2026-02-10 at 4 20 29 PM](https://github.com/user-attachments/assets/772420ed-e8d4-4d93-ac05-e4db66df499d)
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/385898fe-68e9-4741-9c78-119aeba92748" />
 
 ### 🛠 Admin pannel login
