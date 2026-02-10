@@ -138,6 +138,9 @@ onlineshop/
 ![WhatsApp Image 2026-02-10 at 4 20 29 PM](https://github.com/user-attachments/assets/772420ed-e8d4-4d93-ac05-e4db66df499d)
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/385898fe-68e9-4741-9c78-119aeba92748" />
+### User profile
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ae985fe0-259d-48c3-b45b-64cb1b7a0ede" />
+
 
 ### 🛠 Admin pannel login
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f3b21218-4f20-4b1d-9571-61955376bd9a" />
