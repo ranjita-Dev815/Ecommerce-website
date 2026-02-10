@@ -175,9 +175,4 @@ onlineshop/
 **Ranjita kumari prusty**
   MCA 
 📧 Email: ranjitapruty508@gmail.com
----
 
-
-
-bhi bana deta hoon 👍
-Bas batao next kya chahiye 😊
